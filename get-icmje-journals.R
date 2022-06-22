@@ -69,4 +69,4 @@ icmje <- tibble(
   )
 )
 
-write_csv(icmje, file = "./data/icmje_journals.csv")
+write_csv(icmje, file = "./icmje_journals.csv")
